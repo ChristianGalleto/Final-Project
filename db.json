@@ -1,22 +1,29 @@
 {
   "surveys": [
     {
-      "name": "Diccion",
-      "color": "blue",
+      "name": "ishaan@awahsti.com",
+      "rating": "Service: FAIR",
+      "rating1": "Food: FAIR",
+      "rating2": "Atmosphere: FAIR",
+      "suggest": "amazing!",
       "movies": [
-        "harry potter"
+        "Just drove/walked by"
       ],
-      "gender": "male",
+      "color": "No",
       "id": 1
     },
     {
-      "name": "Diccion",
-      "color": "blue",
+      "name": "galletochan19@gmail.com",
+      "rating": "Service: Excellent",
+      "rating1": "Food: Excellent",
+      "rating2": "Atmosphere: Excellent",
+      "suggest": "lami d.i",
       "movies": [
-        "harry potter"
+        "Advertised",
+        "Internet/Website"
       ],
-      "gender": "male",
-      "id": 4
+      "color": "Yes",
+      "id": 2
     }
   ]
 }
